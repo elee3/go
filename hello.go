@@ -1,5 +1,5 @@
 package pack
 
 func Hello() string {
-    return "gg from pack"
+	return "pack v0.0.3"
 }
